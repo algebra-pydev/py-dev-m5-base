@@ -2,4 +2,4 @@
 
 Osnovni repo za "Python u području Internet stvari", modul 5, Python Developer programa obrazovanja.
 
-Koristi VNC na virtualno računalo na kojem je instaliran i pokrenut SenseHAT Emulator.
+**Koristiti VNC konekciju na virtualno računalo na kojem je instaliran i pokrenut SenseHAT Emulator.**
