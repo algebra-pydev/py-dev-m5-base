@@ -11,10 +11,9 @@
 			"password": "vscode",
 			"webPort": "6080",
 			"vncPort": "5901"
-		}
+		},
+		"ghcr.io/devcontainers/features/python:1": {}
 	},
-	
-	"http://ghcr.io/devcontainers/features/python:1 ": {},
 
 	"forwardPorts": [6080, 5901],
 	"portsAttributes": {
