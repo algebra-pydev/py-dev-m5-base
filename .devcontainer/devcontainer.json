@@ -13,6 +13,8 @@
 			"vncPort": "5901"
 		}
 	},
+	
+	"http://ghcr.io/devcontainers/features/python:1 ": {},
 
 	"forwardPorts": [6080, 5901],
 	"portsAttributes": {
